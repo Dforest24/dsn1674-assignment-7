@@ -92,3 +92,19 @@ figcaption {
 }
 a:hover figcaption{
   background-image: linear-gradient(to bottom, #3a7e13, #255108)
+
+footer{
+  background-color: #a79180;
+  width: 100%;
+  }
+
+footer img{
+  width: 2em;
+  margin: .5em;
+
+  }
+.back-to-top{
+  display: block;
+  width: .8em;
+  margin: 0 auto;
+    }
