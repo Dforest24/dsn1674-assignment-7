@@ -11,16 +11,16 @@ body{
   padding: 0;
   font-family: 'Dosis', sans-serif;
   font-weight: 700:;
-}
-header{
-  text-align: center;
-  padding: 1em;
-  background-image: url("../images/waves-pattern.png");
-  color: #502204;
-}
+
+  header {
+    font-family: dosis;
+    text-align: center;
+    background-image: url("../images/subtle_white_mini_waves.jpg");
+    background-repeat: repeat;
+  }
 
 h1{
-  background-image: url(../images/beetle.svg),  url("../images/beetle.svg");
+  background-image: url(../images/beetles.svg),  url("../images/beetles.svg");
   background-repeat: no-repeat;
   background-position: right, left;
   display: inline-block;
