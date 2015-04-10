@@ -55,3 +55,38 @@ h2{
   width: 75%;
   font-size: 1.3em;
 }
+.buckets{
+  position: relative;
+}
+
+figure{
+  position: relative;
+  width: 50%;
+  margin: 0;
+  padding: 0;
+  display: block;
+  float: left;
+}
+
+figure img{
+  width: 100%;
+  display: block;
+}
+figcaption {
+  background-color: #6cb821;
+  color: #fff;
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  width: 60%;
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  bottom: 1em;
+  padding: 0.5em 1em;
+  border-radius: 33px;
+  background-image: linear-gradient(to bottom, #70bc22, #3c8214);
+  box-shadow: 0px 1px 4px black;
+}
