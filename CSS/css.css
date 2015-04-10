@@ -49,3 +49,9 @@ h1{
   margin: 0;
   box-shadow: 0 -30px 263px black inset
 }
+h2{
+  padding: 0em;
+  margin: auto;
+  width: 75%;
+  font-size: 1.3em;
+}
