@@ -12,3 +12,28 @@ body{
   font-family: 'Dosis', sans-serif;
   font-weight: 700:;
 }
+header{
+  text-align: center;
+  padding: 1em;
+  background-image: url("../images/waves-pattern.png");
+  color: #502204;
+}
+
+h1{
+  background-image: url(../images/beetle.svg),  url("../images/beetle.svg");
+  background-repeat: no-repeat;
+  background-position: right, left;
+  display: inline-block;
+  width: 100%;
+  font-size: 2.5em;
+  margin: 0;
+}
+
+.left-beetle{
+  float: left;
+  clear: left;
+}
+
+.right-beetle{
+  float: right;
+}
